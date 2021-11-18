@@ -17,7 +17,6 @@ int main (int argc, char *argv[]){
 
 	int parse, option_index = -1;
 
-	/* array for checking only unique items */
 	bool counter[4] = {false, false, false, false};
 
 	while ((parse=getopt_long(argc, argv, 
