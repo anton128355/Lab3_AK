@@ -1,4 +1,4 @@
-# Lab3_AK-2
+# Lab3_AK
 
 ## Options for my program:
    
@@ -6,4 +6,3 @@
 2. **-L / --List** with list after 
 3. **-h / --help** 
 4. **-v / --version** 
-# Lab3_AK
